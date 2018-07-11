@@ -1,0 +1,13 @@
+c:\users\mark\documents\visual studio 2015\Projects\Aka.Arch.Microservice\Aka.Microservice.Framework\bin\Debug\Aka.Microservice.Framework.dll
+c:\users\mark\documents\visual studio 2015\Projects\Aka.Arch.Microservice\Aka.Microservice.Framework\bin\Debug\Aka.Microservice.Framework.pdb
+c:\users\mark\documents\visual studio 2015\Projects\Aka.Arch.Microservice\Aka.Microservice.Framework\bin\Debug\Dapper.dll
+c:\users\mark\documents\visual studio 2015\Projects\Aka.Arch.Microservice\Aka.Microservice.Framework\bin\Debug\Microsoft.Owin.dll
+c:\users\mark\documents\visual studio 2015\Projects\Aka.Arch.Microservice\Aka.Microservice.Framework\bin\Debug\Nancy.dll
+c:\users\mark\documents\visual studio 2015\Projects\Aka.Arch.Microservice\Aka.Microservice.Framework\bin\Debug\Nancy.Owin.dll
+c:\users\mark\documents\visual studio 2015\Projects\Aka.Arch.Microservice\Aka.Microservice.Framework\bin\Debug\Owin.dll
+c:\users\mark\documents\visual studio 2015\Projects\Aka.Arch.Microservice\Aka.Microservice.Framework\bin\Debug\Dapper.xml
+c:\users\mark\documents\visual studio 2015\Projects\Aka.Arch.Microservice\Aka.Microservice.Framework\bin\Debug\Microsoft.Owin.xml
+c:\users\mark\documents\visual studio 2015\Projects\Aka.Arch.Microservice\Aka.Microservice.Framework\bin\Debug\Nancy.xml
+c:\users\mark\documents\visual studio 2015\Projects\Aka.Arch.Microservice\Aka.Microservice.Framework\bin\Debug\Nancy.Owin.xml
+c:\users\mark\documents\visual studio 2015\Projects\Aka.Arch.Microservice\Aka.Microservice.Framework\obj\Debug\Aka.Microservice.Framework.dll
+c:\users\mark\documents\visual studio 2015\Projects\Aka.Arch.Microservice\Aka.Microservice.Framework\obj\Debug\Aka.Microservice.Framework.pdb

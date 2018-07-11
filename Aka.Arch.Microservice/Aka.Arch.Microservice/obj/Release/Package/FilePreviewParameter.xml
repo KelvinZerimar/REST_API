@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="AkaArchMicroservice" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^c:\\users\\mark\\documents\\visual\ studio\ 2015\\Projects\\Aka\.Arch\.Microservice\\Aka\.Arch\.Microservice\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^c:\\users\\mark\\documents\\visual\ studio\ 2015\\Projects\\Aka\.Arch\.Microservice\\Aka\.Arch\.Microservice\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>
