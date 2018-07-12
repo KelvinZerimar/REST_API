@@ -11,3 +11,17 @@ c:\users\mark\documents\visual studio 2015\Projects\Aka.Arch.Microservice\Aka.Mi
 c:\users\mark\documents\visual studio 2015\Projects\Aka.Arch.Microservice\Aka.Microservice.Framework\bin\Release\Nancy.Owin.xml
 c:\users\mark\documents\visual studio 2015\Projects\Aka.Arch.Microservice\Aka.Microservice.Framework\obj\Release\Aka.Microservice.Framework.dll
 c:\users\mark\documents\visual studio 2015\Projects\Aka.Arch.Microservice\Aka.Microservice.Framework\obj\Release\Aka.Microservice.Framework.pdb
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Microservice.Framework\bin\Release\Aka.Microservice.Framework.dll
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Microservice.Framework\bin\Release\Aka.Microservice.Framework.pdb
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Microservice.Framework\bin\Release\Dapper.dll
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Microservice.Framework\bin\Release\Microsoft.Owin.dll
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Microservice.Framework\bin\Release\Nancy.dll
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Microservice.Framework\bin\Release\Nancy.Owin.dll
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Microservice.Framework\bin\Release\Owin.dll
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Microservice.Framework\bin\Release\Dapper.xml
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Microservice.Framework\bin\Release\Microsoft.Owin.xml
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Microservice.Framework\bin\Release\Nancy.xml
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Microservice.Framework\bin\Release\Nancy.Owin.xml
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Microservice.Framework\obj\Release\Aka.Microservice.Framework.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Microservice.Framework\obj\Release\Aka.Microservice.Framework.dll
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Microservice.Framework\obj\Release\Aka.Microservice.Framework.pdb

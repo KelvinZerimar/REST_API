@@ -40,3 +40,47 @@ c:\users\mark\documents\visual studio 2015\Projects\Aka.Arch.Microservice\Aka.Ar
 c:\users\mark\documents\visual studio 2015\Projects\Aka.Arch.Microservice\Aka.Arch.Microservice\obj\Release\Aka.Arch.Microservice.csprojResolveAssemblyReference.cache
 c:\users\mark\documents\visual studio 2015\Projects\Aka.Arch.Microservice\Aka.Arch.Microservice\obj\Release\Aka.Arch.Microservice.dll
 c:\users\mark\documents\visual studio 2015\Projects\Aka.Arch.Microservice\Aka.Arch.Microservice\obj\Release\Aka.Arch.Microservice.pdb
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\roslyn\csc.exe
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\roslyn\vbc.exe
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\Aka.Arch.Microservice.dll.config
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\Aka.Arch.Microservice.dll
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\Aka.Arch.Microservice.pdb
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\Aka.Microservice.Framework.dll
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\Dapper.dll
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\JWT.dll
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\log4net.dll
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\Microsoft.Owin.dll
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\Nancy.dll
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\Nancy.Owin.dll
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\Newtonsoft.Json.dll
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\Owin.dll
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\System.Data.SQLite.dll
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\System.Net.Http.Formatting.dll
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\System.Web.Http.dll
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\System.Web.Http.WebHost.dll
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\Aka.Microservice.Framework.pdb
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\Dapper.xml
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\log4net.xml
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\Microsoft.Owin.xml
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\System.Data.SQLite.xml
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\Newtonsoft.Json.xml
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\System.Net.Http.Formatting.xml
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\System.Web.Http.xml
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\System.Web.Http.WebHost.xml
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\obj\Release\Aka.Arch.Microservice.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\obj\Release\Aka.Arch.Microservice.dll
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\obj\Release\Aka.Arch.Microservice.pdb

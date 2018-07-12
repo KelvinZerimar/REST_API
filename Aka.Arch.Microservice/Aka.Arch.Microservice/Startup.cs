@@ -22,8 +22,8 @@ namespace Aka.Arch.Microservice
             {
                 "/",
                 "/api/user/getall",
-                "/auth",
-                "/doc/*.*",
+                "/api/user/{id:int}",
+                "/api/user/create",
             };
 
 
