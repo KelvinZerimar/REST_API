@@ -9,9 +9,6 @@ namespace Aka.Arch.Microservice
     /// </summary>
     public class Startup
     {
-
-
-
         /// <summary>
         /// Startup configuration
         /// </summary>
@@ -26,12 +23,7 @@ namespace Aka.Arch.Microservice
                 "/api/user/create",
             };
 
-
             app.UseNancy(opt => opt.Bootstrapper = new Bootstrapper());
-
         }
-
-
-
     }
 }

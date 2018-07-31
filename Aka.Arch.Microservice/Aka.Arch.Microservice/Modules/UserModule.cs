@@ -34,11 +34,12 @@ namespace Aka.Arch.Microservice.Modules
                     response.Status = (int)HttpStatusCode.NotFound;
 
                 response.objResponse = ListResponse;
+
                 return Task.FromResult<dynamic>(Response.AsJson(response));
             });
 
             // get one by id
-            Get("/api/user/{id:int}", (parameters, token) =>
+            Get("/api/user/get/{id:int}", (parameters, token) =>
             {
                 int idUser = parameters.id;
                 ApiUser apiUser = service.GetUser(idUser);
@@ -47,6 +48,7 @@ namespace Aka.Arch.Microservice.Modules
                 else
                     response.Status = (int)HttpStatusCode.NotFound;
                 response.objResponse = apiUser;
+
                 return Task.FromResult<dynamic>(Response.AsJson(response));
             });
 
@@ -92,7 +94,7 @@ namespace Aka.Arch.Microservice.Modules
             });
 
             // delete user
-            Delete("/api/user/{id:int}", (parameters, token) =>
+            Delete("/api/user/remove/{id:int}", (parameters, token) =>
             {
                 int idUser = parameters.id;
                 int resp = service.DeleteUser(idUser);

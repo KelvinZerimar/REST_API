@@ -84,3 +84,5 @@ C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microserv
 C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\obj\Release\Aka.Arch.Microservice.csprojResolveAssemblyReference.cache
 C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\obj\Release\Aka.Arch.Microservice.dll
 C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\obj\Release\Aka.Arch.Microservice.pdb
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\Sharpility.dll
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Arch.Microservice\bin\Sharpility.xml

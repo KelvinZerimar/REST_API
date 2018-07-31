@@ -24,3 +24,4 @@ C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Microservice.F
 C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Microservice.Framework\bin\Debug\Nancy.Owin.xml
 C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Microservice.Framework\obj\Debug\Aka.Microservice.Framework.dll
 C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Microservice.Framework\obj\Debug\Aka.Microservice.Framework.pdb
+C:\Users\Mark\Documents\GitHub\REST_API\Aka.Arch.Microservice\Aka.Microservice.Framework\obj\Debug\Aka.Microservice.Framework.csprojResolveAssemblyReference.cache
