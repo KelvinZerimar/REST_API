@@ -9,6 +9,8 @@ using System.Linq;
 using System.Web;
 using Dapper;
 using System.Data.SQLite;
+using System.Threading.Tasks;
+
 
 namespace Aka.Arch.Microservice.Managers
 {
@@ -46,6 +48,9 @@ namespace Aka.Arch.Microservice.Managers
                 }
             }
 
+            // Calls to Task_MethodAsync
+            Task returnedTask = Task_MethodAsync("GetAllUser");
+           
             return Response;
         }
 
@@ -63,6 +68,8 @@ namespace Aka.Arch.Microservice.Managers
                 user = cnn.Query<ApiUser>(sql, new { Id = intId}).FirstOrDefault(); 
             }
 
+            // Calls to Task_MethodAsync
+            Task returnedTask = Task_MethodAsync("GetUser");
             return user;
         }
 
@@ -81,7 +88,8 @@ namespace Aka.Arch.Microservice.Managers
                 rowid = cnn.Query<long>(sql + " select last_insert_rowid(); ", userInto).First();
                 userInto.Id = rowid.ToString();
             }
-
+            // Calls to Task_MethodAsync
+            Task returnedTask = Task_MethodAsync("CreasteUser");
             return userInto;
         }
 
@@ -98,7 +106,8 @@ namespace Aka.Arch.Microservice.Managers
             {
                 cnn.Query(sql, userInto);
             }
-
+            // Calls to Task_MethodAsync
+            Task returnedTask = Task_MethodAsync("UpdateUser");
             return userInto;
         }
 
@@ -116,7 +125,8 @@ namespace Aka.Arch.Microservice.Managers
             {
                 resp = cnn.Execute(sql, new { Id = Id });
             }
-
+            // Calls to Task_MethodAsync
+            Task returnedTask = Task_MethodAsync("DeleteUser");
             return resp;
         }
 
@@ -134,6 +144,15 @@ namespace Aka.Arch.Microservice.Managers
                         Id integer primary key,
                         Name varchar(100) not null,
                         BirthDate datetime null
+                      ); ");
+
+                //
+                cnn.Execute(
+                    @"create table IF NOT EXISTS ApiTrace
+                      (
+                        Id integer primary key,
+                        Method varchar(100) not null,
+                        HostName varchar(100) not null
                       ); ");
             }
 
@@ -159,6 +178,41 @@ namespace Aka.Arch.Microservice.Managers
             }
         }
 
+        // Signature specifies Task
+        async Task Task_MethodAsync(string Method)
+        {
+            // . . .
+            // The method has no return statement.  
+            // Trace
+            trace _trace = new trace();
+            _trace.Method = Method;
+            _trace.clientAddress = HttpContext.Current.Request.UserHostAddress;
 
+            using (var cnn = DBContext.DbConnection())
+            {
+                cnn.Open();
+                string sql = @"INSERT INTO ApiTrace(Method, HostName) VALUES (@Method,@clientAddress); ";
+                //cnn.Query(sql);
+                long rowid = cnn.Query<long>(sql + " select last_insert_rowid(); ", _trace).First();
+                
+            }
+        }
+
+        // Signature specifies Task<TResult>
+        async Task<int> TaskOfTResult_MethodAsync()
+        {
+            int hours;
+            // . . .
+            // Return statement specifies an integer result.
+            hours = 20;
+            return hours;
+        }
+        
+    }
+
+    internal class trace
+    {
+        public string Method { get; set; }
+        public string clientAddress { get; set; }
     }
 }
